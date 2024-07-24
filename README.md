@@ -62,6 +62,14 @@ attacks.
 ![image](https://github.com/user-attachments/assets/9a4b8b50-d04e-4bfc-9304-99e516f46e5b)
 
 
+You should get an error like this when you put
+the asterik(*) in the get request parameter.
+
+
+![image](https://github.com/user-attachments/assets/1b185833-dccb-4325-83bc-3804fe1aac7d)
+
+
+
 
 
 
