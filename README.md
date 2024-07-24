@@ -51,7 +51,7 @@ posters tab I recongnize that the url changes slightly like this...
 
 
 
-http://testphp.vulnweb.com/listproducts.php?cat=1
+
 
 
 
