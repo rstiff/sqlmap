@@ -130,6 +130,27 @@ a users name, street address, passwords, email, phone number, and username.
 
 
 
+How to prevent sql data base attacks from happening
+
+1. use paramertized queries
+2. Use Object-Relational Mapping
+3. input validation
+4. Least privliages
+5. Web Application Firewall
+6. Regular secuirty testing and monitoting
+7. error handling
+
+   
+
+
+
+
+
+
+
+
+
+
 
 
 
