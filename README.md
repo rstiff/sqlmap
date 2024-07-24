@@ -88,6 +88,17 @@ So in this case there are two databases as shown here
 
 
 
+This command that I put in shows that there are multiple tables 
+within the acuart database. The attacker would most likley be intrested in seeing the users tables becuase there login info and credintals should be in that table.
+
+
+
+![image](https://github.com/user-attachments/assets/7eea46ed-1b54-498d-924e-5549ae124d0d)
+
+
+
+
+
 
 
 
