@@ -70,6 +70,15 @@ the asterik(*) in the get request parameter.
 
 
 
+This command checks and sees the dabatbase names for that web page 
+and returns them back so you can go and look inside the database tables. This is very bad becuase if we had a database and the table within that database called"users" was in there and had sensitve data, then thats a big issue to take care of.
+
+
+![image](https://github.com/user-attachments/assets/325b7f66-806e-4ceb-86ad-125937919a03)
+
+
+
+
 
 
 
