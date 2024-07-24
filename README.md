@@ -13,8 +13,7 @@ Disclaimer: This is for educational purposes only.
 sqlmap
 
 
-sqlmap is a tool that automatically finds and exploits SQL injection vulnarabilities. 
-We can then use this to test web applications for SQL injection vulnarabilities and gain access to vulnarable databases.
+sqlmap is a tool that automatically finds and exploits SQL injection vulnarabilities. We can then use this to test web applications for SQL injection vulnarabilities and gain access to vulnarable databases. Sqlmap is a  tool used by pen-testers to identify vulnarble databases within an application.
 
 
 
