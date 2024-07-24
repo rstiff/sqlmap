@@ -51,6 +51,20 @@ posters tab I recongnize that the url changes slightly like this...
 
 
 
+How to see if the web page is vulnarable
+
+
+By putting an asterik(*) in the request parameter this allows
+us as the attacker to see if the web page is vulnarable to sql database
+attacks.
+
+
+![image](https://github.com/user-attachments/assets/9a4b8b50-d04e-4bfc-9304-99e516f46e5b)
+
+
+
+
+
 
 
 
