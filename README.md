@@ -98,6 +98,36 @@ within the acuart database. The attacker would most likley be intrested in seein
 
 
 
+![image](https://github.com/user-attachments/assets/a283da69-d44a-4395-8515-ffb6f833d665)
+
+
+
+
+
+
+Now its time to open up the users table and see whats inside 
+
+
+
+
+![image](https://github.com/user-attachments/assets/289129d6-520d-4944-aef8-97b05523f8ba)
+
+
+
+
+
+In the image above we see that there is sensitive information such as 
+a users name, street address, passwords, email, phone number, and username.
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/1d4830b2-ff54-4a03-a011-bd01c77cb880)
+
+
+
 
 
 
