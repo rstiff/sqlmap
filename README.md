@@ -78,6 +78,16 @@ and returns them back so you can go and look inside the database tables. This is
 
 
 
+So in this case there are two databases as shown here
+
+
+
+
+![image](https://github.com/user-attachments/assets/94e794c9-b7c4-4f8e-97c9-fc35b5ecc988)
+
+
+
+
 
 
 
