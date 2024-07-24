@@ -10,6 +10,12 @@ Disclaimer: This is for educational purposes only.
 
 
 
+Description: In this section I will be explaining what sqlmap is and a project example of what a database attack looks like. I will also show you all how to prevent sqlmap database attacks from happening. I will be using  http://testphp.vulnweb.com/ for showing you all how to do a
+database attack.
+
+
+
+
 sqlmap
 
 
