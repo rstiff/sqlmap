@@ -116,7 +116,7 @@ Now its time to open up the users table and see whats inside
 
 
 
-In the image above we see that there is sensitive information such as 
+In the image down below we see that there is sensitive information such as 
 a users name, street address, passwords, email, phone number, and username.
 
 
