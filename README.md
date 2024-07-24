@@ -31,6 +31,44 @@ sqlmap is a tool that automatically finds and exploits SQL injection vulnarabili
 
 
 
+Example project 
+
+
+
+In the posters tab if we click the tab we see the web page this redirects us to the posters that the artist post. When I click the 
+posters tab I recongnize that the url changes slightly like this...
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/c153cffd-171b-4165-82c9-182bcd50c677)
+
+
+
+![image](https://github.com/user-attachments/assets/bc953466-f39a-46b7-8a12-0b141382ebd3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
